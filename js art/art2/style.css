@@ -1,0 +1,6 @@
+body{
+        margin:0 auto;
+        background: #333;
+        display: flex;
+        justify-content: center;
+}
